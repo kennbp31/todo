@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping List App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "rebuild": "electron-rebuild -f -w sqlite3"
+  },
+  "author": "Brendan Kenny",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.0",
+    "knex": "^0.21.1",
+    "node": "^14.2.0",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.11.0"
+  },
+  "keywords": []
+}
