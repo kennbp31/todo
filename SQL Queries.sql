@@ -1,4 +1,2 @@
 -- SQLite
-INSERT INTO list
-(item) 
-VALUES (test)
+SELECT * FROM list
