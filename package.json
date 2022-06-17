@@ -10,7 +10,7 @@
   "author": "Brendan Kenny",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.0.0",
+    "electron": "^15.5.5",
     "knex": "^0.21.1",
     "node": "^14.2.0",
     "sqlite3": "^4.2.0"
